@@ -1,4 +1,4 @@
-import { Box, Flex, Heading } from '@chakra-ui/react';
+import { Flex, Heading } from '@chakra-ui/react';
 import Image from 'next/image';
 import React from 'react';
 import { Trip } from '../api/tripTypes';

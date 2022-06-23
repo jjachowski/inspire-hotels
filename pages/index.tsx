@@ -1,11 +1,11 @@
+import { Heading, Wrap, WrapItem } from '@chakra-ui/react';
 import type { NextPage } from 'next';
-import { Flex, Grid, Heading, Wrap, WrapItem } from '@chakra-ui/react';
 import { useEffect, useState } from 'react';
 import { fetchTrips } from '../api/tripApi';
 import { Trip } from '../api/tripTypes';
+import { DarkModeSwitch } from '../components/DarkModeSwitch';
 import { Layout } from '../components/Layout';
 import { TripPreview } from '../components/TripPreview';
-import { DarkModeSwitch } from '../components/DarkModeSwitch';
 
 const Home: NextPage = () => {
   const [trips, setTrips] = useState<Trip[]>([]);
