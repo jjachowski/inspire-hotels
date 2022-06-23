@@ -1,0 +1,52 @@
+{
+  "trips": [
+    {
+      "id": 1,
+      "name": "European Quest",
+      "description": "11 countries, 25 days",
+      "rating": 4.6,
+      "originalPrice": "€3,385",
+      "discountedPrice": "€2,877",
+      "alt": "European trip image",
+      "width": 800,
+      "height": 533,
+      "image": "https://media.istockphoto.com/photos/female-tourist-looking-the-basilica-di-santa-maria-della-salute-and-picture-id891465194?k=20&m=891465194&s=612x612&w=0&h=DGaULD1ZdtPJ0jT_2efV0pmHtp819NjgS0k69xS6bjk="
+    },
+    {
+      "id": 2,
+      "name": "Simply Italy",
+      "description": "11 countries, 25 days",
+      "rating": 4.1,
+      "originalPrice": "€5,414",
+      "discountedPrice": "€4,443",
+      "alt": "Mamma mia beautiful Italia",
+      "width": 800,
+      "height": 533,
+      "image": "https://thumbs.dreamstime.com/b/rome-italy-22120319.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Italian Espresso",
+      "description": "11 countries, 25 days",
+      "rating": 3.3,
+      "originalPrice": "€1,234",
+      "discountedPrice": "€1,000",
+      "alt": "Italian espresso",
+      "width": 640,
+      "height": 426,
+      "image": "https://www.ciaopittsburgh.com/wp-content/uploads/2020/05/kevin-butz-BBFRIGifYQ8-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Polish Kiełbasa",
+      "description": "1 country, 1 day",
+      "rating": 5.0,
+      "originalPrice": "€100",
+      "discountedPrice": "€99,99",
+      "alt": "Polish sadness",
+      "width": 2560,
+      "height": 1707,
+      "image": "https://blogs.transparent.com/polish/wp-content/uploads/sites/18/2019/11/healthy-regional-dishes-1329449-scaled.jpg"
+    }
+  ]
+}
